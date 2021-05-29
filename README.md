@@ -1,3 +1,5 @@
+<img align="centre" display="inline" src="https://github-readme-streak-stats.herokuapp.com?user=praneethravuri&theme=dark)](https://git.io/streak-stats">
+
 # Hi there, I am Praneeth Ravuri
 
 ## What I am currently working now :computer: :
