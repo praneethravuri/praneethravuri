@@ -3,7 +3,7 @@
   <br />
 </h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 # Hi there, I am Praneeth Ravuri
 
