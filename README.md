@@ -21,7 +21,7 @@
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][reddit]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][facebook]
@@ -34,3 +34,4 @@
 [instagram]: https://www.instagram.com/praneeth.ravuri/
 [facebook]: https://www.facebook.com/ravuri.praneeth
 [github]: https://github.com/praneethravuri
+[linkedin]: https://www.linkedin.com/in/ravuri-praneeth-176678204/
