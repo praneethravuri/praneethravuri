@@ -25,6 +25,7 @@
 [<img align="left" alt="praneethravuri | Reddit"   src="https://img.icons8.com/officel/48/fa314a/reddit.png" />][reddit]
 [<img align="left" alt="praneethravuri | Facebook" src="https://img.icons8.com/fluent/48/fa314a/facebook-new.png" />][facebook]
 [<img align="left" alt="praneethravuri | Github"   src="https://img.icons8.com/fluent/48/fa314a/github.png" />][github]
+[<img align="left" alt="praneethravuri | Github"   src="https://img.icons8.com/cute-clipart/64/fa314a/instagram-new.png" />][instagram]
 
 
 [reddit]: https://www.reddit.com/user/BhelPuri69
