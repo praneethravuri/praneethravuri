@@ -22,11 +22,11 @@
 
 [<img align="left" alt="praneethravuri | Twitter"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="praneethravuri | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="praneethravuri | Instagram"src="" />][instagram]
-[<img align="left" alt="praneethravuri | Reddit"   src="" />][reddit]
-[<img align="left" alt="praneethravuri | Facebook" src="" />][facebook]
-[<img align="left" alt="praneethravuri | Github"   src="" />][github]
-[<img align="left" alt="praneethravuri | LinkedIn" src="" />][linkedin]
+[<img align="left" alt="praneethravuri | Instagram"src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="praneethravuri | Reddit"   src="https://img.icons8.com/officel/48/fa314a/reddit.png" />][reddit]
+[<img align="left" alt="praneethravuri | Facebook" src="https://img.icons8.com/fluent/48/fa314a/facebook-new.png" />][facebook]
+[<img align="left" alt="praneethravuri | Github"   src="https://img.icons8.com/fluent/48/fa314a/github.png" />][github]
+[<img align="left" alt="praneethravuri | LinkedIn" src="https://img.icons8.com/fluent/48/fa314a/linkedin.png" />][linkedin]
 
 
 [reddit]: https://www.reddit.com/user/BhelPuri69
