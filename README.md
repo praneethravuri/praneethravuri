@@ -3,6 +3,8 @@
   <br />
 </h1>
 
+![](https://komarev.com/ghpvc/?username=praneethravuri)
+
 
 # Hi there, I am Praneeth Ravuri
 
@@ -14,30 +16,26 @@
 ## What I plan to learn and do in the future :chart: :
 * Become a ***Python*** Developer
 
-![](https://komarev.com/ghpvc/?username=praneethravuri)
-
-<a href="https://www.buymeacoffee.com/praneethravuri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-## Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
-<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />&nbsp;
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 
 
 ## Connect with me:
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram] &nbsp;&nbsp;
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp;&nbsp;
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook] &nbsp;&nbsp;
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />][github] &nbsp;&nbsp;
+[![alt text][1.1]][twitter]
+[![alt text][2.1]][facebook]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][github]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
-
+[reddit]: https://www.reddit.com/user/BhelPuri69
 [twitter]: https://twitter.com/ravuri_praneeth
 [instagram]: https://www.instagram.com/praneeth.ravuri/
 [facebook]: https://www.facebook.com/ravuri.praneeth
