@@ -20,13 +20,13 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][reddit]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][github]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
+[<img align="left" alt="praneethravuri | Twitter"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="praneethravuri | LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="praneethravuri | Instagram"src="" />][instagram]
+[<img align="left" alt="praneethravuri | Reddit"   src="" />][reddit]
+[<img align="left" alt="praneethravuri | Facebook" src="" />][facebook]
+[<img align="left" alt="praneethravuri | Github"   src="" />][github]
+[<img align="left" alt="praneethravuri | LinkedIn" src="" />][linkedin]
 
 
 [reddit]: https://www.reddit.com/user/BhelPuri69
