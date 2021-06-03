@@ -1,6 +1,6 @@
 </h1>
 <h1 align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=praneethravuri&theme=dark)](https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=praneethravuri&theme=neon-palenight&hide_border=true)](https://git.io/streak-stats">
   <br />
 </h1>
 
