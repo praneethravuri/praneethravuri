@@ -5,9 +5,6 @@
 </h1>
 
 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=praneethravuri
-
 ![](https://komarev.com/ghpvc/?username=praneethravuri)
 
 
