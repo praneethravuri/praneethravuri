@@ -4,10 +4,7 @@
   <br />
 </h1>
 
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethravuri)](https://github.com/SinghRajenM">
-  <br />
-</h1>
+
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=praneethravuri
 
