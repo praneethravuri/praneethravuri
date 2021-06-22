@@ -26,10 +26,9 @@
 [<img align="left" alt="praneethravuri | Twitter"  src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="praneethravuri | Facebook" src="https://img.icons8.com/fluent/48/fa314a/facebook-new.png" />][facebook]
 [<img align="left" alt="praneethravuri | Instagram"   src="https://img.icons8.com/fluent/48/fa314a/instagram-new.png" />][instagram]
-[<img align="left" alt="praneethravuri | Reddit"   src="https://img.icons8.com/officel/48/fa314a/reddit.png" />][reddit]
 
 
-[reddit]: https://www.reddit.com/user/BhelPuri69
+
 [twitter]: https://twitter.com/ravuri_praneeth
 [instagram]: https://www.instagram.com/praneeth.ravuri/
 [facebook]: https://www.facebook.com/ravuri.praneeth
