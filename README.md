@@ -20,7 +20,7 @@ decision making inculcated by experience.
 
 ![Code](https://img.shields.io/badge/Code-Python-blue)
 ![Code](https://img.shields.io/badge/Code-C-9cf)
-![Code](https://img.shields.io/badge/Code-C%2B%2B-ff69b4)
+![Code](https://img.shields.io/badge/-Java-critical)
 ![Code](https://img.shields.io/badge/Code-CSS-blue)
 ![Code](https://img.shields.io/badge/Code-HTML-orange)
 
