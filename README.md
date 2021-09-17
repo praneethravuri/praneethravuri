@@ -1,9 +1,5 @@
 # Hi there, I am Ravuri Praneeth
 
-An aspiring computer science engineering student with a will to learn new and upcoming technologies with pragmatic programming skills
-and a determination to work diligently. A skilful student with various qualities such as team management, eloquence, critical thinking and
-decision making inculcated by experience.
-
 <br>
 
 ## Technologies and Tools
