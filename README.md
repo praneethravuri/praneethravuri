@@ -1,1 +1,1 @@
-# Hi there, I am Ravuri Praneeth
+# Hi there, I am Praneeth Ravuri
