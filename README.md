@@ -1,5 +1,5 @@
 <p align="center"> 
-  <h1 align="center"><a href="https://snazzy-cocada-b041d4.netlify.app/">I'm Praneeth Rauvir</a></h1>
+  <h1 align="center"><a href="https://snazzy-cocada-b041d4.netlify.app/">I'm Praneeth Ravuri</a></h1>
   <p align="center"> Master's in Computer Science Student & Coding Enthusiast</p>
 </p>
 
