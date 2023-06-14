@@ -27,6 +27,6 @@
 
 <br />
 
-- I’m currently learning about anything and everything around JavaScript & Backend Web Development.
+- :computer: I’m currently learning about anything and everything around JavaScript & Backend Web Development.
 - :racing_car: Formula 1 addict
-- Love to cook
+- :man_cook: Love to cook
