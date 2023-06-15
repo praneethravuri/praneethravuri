@@ -31,4 +31,4 @@
 - :racing_car: Formula 1 addict
 - :man_cook: Love to cook
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneethravuri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethravuri)](https://github.com/anuraghazra/github-readme-stats)
