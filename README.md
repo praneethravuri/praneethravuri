@@ -30,4 +30,3 @@
 - :computer: I’m currently learning about anything and everything around JavaScript & Backend Web Development.
 - :racing_car: Formula 1 addict
 - :man_cook: Love to cook
-- :building_construction: Currently building backend for [Jet Sphere](https://github.com/praneethravuri/Jet-Sphere)
