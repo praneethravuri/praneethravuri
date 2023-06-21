@@ -32,4 +32,4 @@
 - :man_cook: Love to cook
 - :construction: Currently building [Weatherly](https://elegant-kleicha-0bdc60.netlify.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethravuri)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethravuri&langs_count=10)
