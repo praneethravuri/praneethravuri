@@ -1,12 +1,12 @@
 <p align="center"> 
-  <h1 align="center"><a href="https://snazzy-cocada-b041d4.netlify.app/">I'm Praneeth Ravuri</a></h1>
+  <h1 align="center"><a href="https://prav.dev/" target=_blank>I'm Praneeth Ravuri</a></h1>
   <p align="center"> Master's in Computer Science Student & Coding Enthusiast</p>
 </p>
 
 <p align="center">
-  <a href="https://snazzy-cocada-b041d4.netlify.app/">Portfolio</a> | 
-  <a href="https://github.com/praneethravuri">Github</a> |
-  <a href="https://www.linkedin.com/in/praneeth-ravuri2500/">LinkedIn</a>
+  <a href="https://prav.dev/" target=_blank>Portfolio</a> | 
+  <a href="https://github.com/praneethravuri" target=_blank>Github</a> |
+  <a href="https://www.linkedin.com/in/praneeth-ravuri2500/" target=_blank>LinkedIn</a>
 </p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
