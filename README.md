@@ -34,5 +34,5 @@
 - :computer: I’m currently learning about anything and everything around JavaScript & Backend Web Development.
 - :racing_car: Formula 1 addict
 - :man_cook: Love to cook
-- :construction: Currently building [Weatherly](https://elegant-kleicha-0bdc60.netlify.app/)
+- :construction: Currently building [PRAV V2](https://github.com/praneethravuri/PRAV-V2)
 
