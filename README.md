@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" />
+</p>
+
 <p align="center"> 
   <h1 align="center"><a href="https://prav.dev/" target=_blank>I'm Praneeth Ravuri</a></h1>
   <p align="center"> Master's in Computer Science Student & Coding Enthusiast</p>
