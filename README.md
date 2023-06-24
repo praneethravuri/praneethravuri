@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <h1 align="center"><a href="https://prav.dev/" target=_blank>I'm Praneeth Ravuri</a></h1>
-  <p align="center"> Master's in Computer Science Student & Coding Enthusiast</p>
+  <p align="center"> Graduate Computer Science Student @ GMU & Coding Enthusiast</p>
 </p>
 
 <p align="center">
