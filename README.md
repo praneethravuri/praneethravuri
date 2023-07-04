@@ -1,14 +1,10 @@
-<p align="center">
-  <a href="https://prav.dev/" target=_blank><img src="./banner.png" /></a>
-</p>
-
 <p align="center"> 
   <h1 align="center"><a href="https://prav.dev/" target=_blank>I'm Praneeth Ravuri</a></h1>
   <p align="center"> Graduate Computer Science Student @ GMU & Coding Enthusiast</p>
 </p>
 
 <p align="center">
-  <a href="https://prav.dev/" target=_blank>Portfolio</a> | 
+  <a href="https://prav.dev/" target=_blank>Portfolio Website</a> | 
   <a href="https://github.com/praneethravuri" target=_blank>Github</a> |
   <a href="https://www.linkedin.com/in/praneeth-ravuri2500/" target=_blank>LinkedIn</a>
 </p>
@@ -38,5 +34,5 @@
 - :computer: I’m currently learning about anything and everything around JavaScript & Backend Web Development.
 - :racing_car: Formula 1 addict
 - :man_cook: Love to cook
-- :construction: Currently building [PRAV V2](https://github.com/praneethravuri/PRAV-V2)
+- :construction: Currently building [PRAV Terminal](https://github.com/praneethravuri/prav-terminal)
 
