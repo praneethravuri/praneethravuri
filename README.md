@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praneeth Ravuri</h1>
 <h3 align="center">Graduate Computer Science Student @ GMU & Coding Enthusiast</h3>
 
-- 🔭 I’m currently working on [prav-terminal](https://github.com/praneethravuri/prav-terminal)
+- 🔭 I’m currently working on [weatherly](https://github.com/praneethravuri/weatherly)
 
 - 🌱 I’m currently learning **Vue.js**
 
