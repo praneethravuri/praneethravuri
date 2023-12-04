@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://prav.dev/](https://prav.dev/)
+- 👨‍💻 All of my projects are available at [https://praneethravuri.com/](https://praneethravuri.com/)
 
 - 📫 How to reach me **prav2500@gmail.com**
 
