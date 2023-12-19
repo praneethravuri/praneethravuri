@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Praneeth Ravuri</h1>
 <h3 align="center">Graduate Computer Science Student @ GMU & Coding Enthusiast</h3>
 
-- 🔭 I’m currently working on [weatherly](https://github.com/praneethravuri/weatherly)
+- 🔭 I’m currently working on [Traffic Congestion Reduction with SARSA](https://github.com/praneethravuri/traffic-congestion-reduction-with-SARSA)
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://praneethravuri.com/](https://praneethravuri.com/)
 
-- 📫 How to reach me **prav2500@gmail.com**
+- 📫 How to reach me **pravdev10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
