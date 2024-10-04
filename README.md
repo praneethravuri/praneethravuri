@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth Ravuri</h1>
-<h3 align="center">Master's Candidate in Computer Science at George Mason University | Passionate Full-Stack Developer with Experience in AI & Software Engineering</h3>
+<h3 align="center">Data Engineer @ Prodapt North America</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,py,ts,flask,nodejs,react,tailwind,vue,docker,github,mongodb,nextjs,vite,jquery" alt="language logos">
