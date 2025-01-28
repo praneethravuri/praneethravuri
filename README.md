@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth Ravuri</h1>
-<h3 align="center">Data Analyst @ Prodapt North America</h3>
+<h3 align="center">Software Engineer @ Prodapt North America</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,py,ts,flask,nodejs,react,tailwind,vue,docker,github,mongodb,nextjs,vite,jquery" alt="language logos">
