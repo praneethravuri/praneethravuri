@@ -1,6 +1,6 @@
 # Hi, I'm Praneeth Ravuri 👋
 
-**Software Engineer @ Prodapt** | MS CS @ George Mason University
+**Software Engineer @ Lumen Technologies** | MS CS @ George Mason University
 
 ## 🚀 Currently Building
 
